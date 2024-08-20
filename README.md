@@ -1,5 +1,4 @@
-# ahai
-aku suka ini
+
 <!DOCTYPE html>
 <html>
     <head>
